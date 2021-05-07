@@ -1,0 +1,7 @@
+httpx
+beautifulsoup4
+numpy
+pandas
+dash
+pydantic[dotenv]
+geopy
